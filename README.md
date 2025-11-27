@@ -14,9 +14,9 @@ A modern, glassmorphic web application for viewing CSE220 lab course marks and p
 ### 📊 Comprehensive Performance Tracking
 - **Real-time Data Visualization**: Interactive charts and graphs for all course components
 - **Performance Metrics**: Track your progress across:
-  - Lab Performance (with average calculation)
-  - Lab Exams (best N-1 scores counted)
-  - Assignments (best N scores counted)
+  - Lab Performance 
+  - Lab Exams 
+  - Assignments 
   - Attendance Log
 - **Summary Statistics**: Quick overview cards showing key metrics and eligibility status
 
